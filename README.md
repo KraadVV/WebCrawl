@@ -1,5 +1,5 @@
 # WebCrawl
-Just for Homework
+Just for Homework and EVE Online
 
 used: python 3.9, selenium
 
